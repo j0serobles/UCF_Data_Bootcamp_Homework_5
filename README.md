@@ -14,6 +14,6 @@ As a senior data analyst at the company, you've been given access to the complet
 
 ## Instructions
 
-You can access the results of the study from the [GitHub](https://github.com/j0serobles/UCF_Data_Bootcamp_Homework_5) repository.
+You can access the results of the study from the [GitHub](https://github.com/j0serobles/UCF_Data_Bootcamp_Homework_5/blob/main/Instructions/Pymaceuticals/pymaceuticals_starter.ipynb) repository.
 A description of each step and our observations are included in the notebook. 
 
