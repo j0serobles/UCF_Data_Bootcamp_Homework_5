@@ -1,5 +1,4 @@
-# UCF_Data_Bootcamp_Homework_5 - The Power of Plots
-UCF Data Analytics and Visualization Boot Camp Homework 5 : Matplotlib
+# Matplotlib Homework - The Power of Plots
 
 ## Background
 
@@ -78,4 +77,3 @@ Here are some final considerations:
 ### Copyright
 
 Trilogy Education Services © 2020. All Rights Reserved.
-
